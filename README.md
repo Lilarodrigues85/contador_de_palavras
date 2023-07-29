@@ -13,7 +13,7 @@ Responsividade: A interface do programa é desenvolvida com CSS responsivo, gara
 
 Como utilizar:
 
-Acesse o programa de contador de palavras através do link do GitHub ou do site onde a aplicação estiver hospedada.
+Acesse o programa de contador de palavras através do link do GitHub.
 
 Na interface, você encontrará uma caixa de texto onde poderá digitar ou colar o texto que deseja analisar.
 
