@@ -1,5 +1,5 @@
 # CONTADOR DE PALAVRAS
- ### O programa de contador de palavras é uma aplicação web desenvolvida utilizando as tecnologias HTML, CSS e JavaScript. Seu objetivo principal é contar o número de palavras em um texto fornecido pelo usuário.
+ O programa de contador de palavras é uma aplicação web desenvolvida utilizando as tecnologias HTML, CSS e JavaScript. Seu objetivo principal é contar o número de palavras em um texto fornecido pelo usuário.
 
 Recursos principais:
 
